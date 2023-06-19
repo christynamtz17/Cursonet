@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzHx+XK6G/Q0dk3OGVRUef82InPoiKgeLNgkyviiHMsqacFAOPZ1pHEI7NJzQ4plhp0caJiKf2kcccs12wQmUg==",
+  "success": true,
+  "projectFilePath": "/Users/christynamtz/CursoNet/BankConsole/bancocdis/bancocdis.csproj",
+  "expectedPackageFiles": [
+    "/Users/christynamtz/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/mailkit/4.1.0/mailkit.4.1.0.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/mimekit/4.1.0/mimekit.4.1.0.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/system.formats.asn1/7.0.0/system.formats.asn1.7.0.0.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/system.security.cryptography.pkcs/7.0.2/system.security.cryptography.pkcs.7.0.2.nupkg.sha512",
+    "/Users/christynamtz/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/christynamtz/CursoNet/IntroConsole/bin/Debug/net6.0/IntroConsole
+/Users/christynamtz/CursoNet/IntroConsole/bin/Debug/net6.0/IntroConsole.deps.json
+/Users/christynamtz/CursoNet/IntroConsole/bin/Debug/net6.0/IntroConsole.runtimeconfig.json
+/Users/christynamtz/CursoNet/IntroConsole/bin/Debug/net6.0/IntroConsole.dll
+/Users/christynamtz/CursoNet/IntroConsole/bin/Debug/net6.0/IntroConsole.pdb
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.csproj.AssemblyReference.cache
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.AssemblyInfoInputs.cache
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.AssemblyInfo.cs
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.csproj.CoreCompileInputs.cache
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.dll
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/refint/IntroConsole.dll
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.pdb
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/IntroConsole.genruntimeconfig.cache
+/Users/christynamtz/CursoNet/IntroConsole/obj/Debug/net6.0/ref/IntroConsole.dll
